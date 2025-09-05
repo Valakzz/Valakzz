@@ -18,6 +18,6 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Valakzz&repo=Maleniafinalizado&bg_color=68518d&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=000000&text_color=FFF)](https://github.com/Valakzz/Maleniafinalizado)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Valakzz&repo=Maleniafinalizado&bg_color=68518d&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=000000&text_color=FFF)](https://github.com/Valakzz/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Valakzz&repo=TrabalhoOpenSourceDio&bg_color=68518d&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=000000&text_color=FFF)](https://github.com/Valakzz/dio-lab-open-source)
 
 
