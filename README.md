@@ -12,7 +12,15 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-df8900?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Valak&theme=transparent&bg_color=311847&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=000000&text_color=FFF)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Valakzz&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Valakzz/github-readme-stats#gh-dark-mode-only)
+
+>
+## Linguagens preferidas 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Valak-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
 ## Minhas contribuições
 
