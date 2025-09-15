@@ -22,6 +22,11 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+>
+>
+<img width="700" height="1024" alt="112cf9ca-e436-440c-aeb8-b2500762daf1" src="https://github.com/user-attachments/assets/77b3f13a-ed79-4e1b-aa06-1580c98d0048" />
+
+
 ## Minhas contribuições
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Valakzz&repo=Maleniafinalizado&bg_color=68518d&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=000000&text_color=FFF)](https://github.com/Valakzz/Maleniafinalizado)
