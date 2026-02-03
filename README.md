@@ -34,7 +34,6 @@
 
 >
 >
-<img width="700" height="1024" alt="112cf9ca-e436-440c-aeb8-b2500762daf1" src="https://github.com/user-attachments/assets/77b3f13a-ed79-4e1b-aa06-1580c98d0048" />
 
 
 ## Minhas contribuições
