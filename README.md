@@ -21,7 +21,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-df8900?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Github Stats
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Valakzz&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Valakzz/github-readme-stats#gh-dark-mode-only)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=valakzz&show_icons=true&theme=dark)
+
 
 >
 ## Linguagens preferidas 
