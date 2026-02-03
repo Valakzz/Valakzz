@@ -21,7 +21,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-df8900?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Github Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=valakzz&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=valakzz&show_icons=true&theme=dark&format=png)
+
 
 
 >
