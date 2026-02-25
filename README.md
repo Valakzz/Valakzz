@@ -17,7 +17,7 @@
   <samp>
       Hi there! I'm <b>Valakzz</b> 👋
       <br>
-      Kotlin • Front-end • Dev in progress
+      Kotlin • Back-end • Dev in progress
   </samp>
   
 
