@@ -17,7 +17,8 @@
   <samp>
       Hi there! I'm <b>Valakzz</b> 👋
       <br>
-      Kotlin • Back-end • Dev in progress
+      Kotlin • Back-end • Dev in progress <br> <br>
+      [![TikTok](https://img.shields.io/badge/-TikTok%20%20-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@valakzs)
   </samp>
   
 
@@ -29,6 +30,7 @@
 ## Connect-se comigo
 [![GitHub](https://img.shields.io/badge/GitHub-9966cc?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Valakzz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-monteiro-465109378/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/monteiro.silva7)
 
 
 <picture>
