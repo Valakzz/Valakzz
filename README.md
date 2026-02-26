@@ -67,6 +67,8 @@
 
 [![Repo Card](https://gh-readme-stats.vercel.app/api/pin/?username=Valakzz&repo=Projeto-Anime&bg_color=000000&border_color=FFFAFA&show_icons=true&icon_color=FFFAFA&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/Valakzz/Projeto-Anime)
 
+[![Repo Card](https://gh-readme-stats.vercel.app/api/pin/?username=Valakzz&repo=Projeto-buscador-Dragon-Ball-Z&bg_color=000000&border_color=FFFAFA&show_icons=true&icon_color=FFFAFA&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/Valakzz/Projeto-buscador-Dragon-Ball-Z)
+
 
 
 
