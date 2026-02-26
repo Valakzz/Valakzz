@@ -23,7 +23,7 @@
 
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=bb9af7&width=900&size=22&center=true&lines=I+am+from+Brazil;Student+of+Analysis+and+Systems+Development;Kotlin+and+Front-end+Developer;Be+welcome!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=bb9af7&width=900&size=22&center=true&lines=I+am+from+Brazil;Student+of+Analysis+and+Systems+Development;Kotlin+and+Beck-end+Developer;Be+welcome!" />
 </div>
 
 ## Connect-se comigo
