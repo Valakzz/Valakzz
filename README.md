@@ -59,6 +59,10 @@
 
 ## 📌 Projetos em destaque e contribuições
 
+
+
+[![Repo Card](https://gh-readme-stats.vercel.app/api/pin/?username=valakzz&repo=Timer&bg_color=000000&border_color=FFFAFA&show_icons=true&icon_color=FFFAFA&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/Valakzz/Timer)
+
 [![Repo Card](https://gh-readme-stats.vercel.app/api/pin/?username=valakzz&repo=Maleniafinalizado&bg_color=000000&border_color=FFFAFA&show_icons=true&icon_color=FFFAFA&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/valakzz/Maleniafinalizado)
 
 [![Repo Card](https://gh-readme-stats.vercel.app/api/pin/?username=valakzz&repo=dio-lab-open-source&bg_color=000000&border_color=FFFAFA&show_icons=true&icon_color=FFFAFA&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/valakzz/dio-lab-open-source)
