@@ -61,7 +61,7 @@
 
 
 
-[![Repo Card](https://gh-readme-stats.vercel.app/api/pin/?username=valakzz&repo=TrabalhoWebFinalAcademy&bg_color=000000&border_color=FFFAFA&show_icons=true&icon_color=FFFAFA&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/Valakzz/TrabalhoWebFinalAcademy)
+[![Repo Card](https://gh-readme-stats.vercel.app/api/pin/?username=valakzz&repo=Training-Management-System&bg_color=000000&border_color=FFFAFA&show_icons=true&icon_color=FFFAFA&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/Valakzz/TrabalhoWebFinalAcademy)
 
 [![Repo Card](https://gh-readme-stats.vercel.app/api/pin/?username=valakzz&repo=Timer&bg_color=000000&border_color=FFFAFA&show_icons=true&icon_color=FFFAFA&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/Valakzz/Timer)
 
