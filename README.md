@@ -8,6 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-bb9af7?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Front--end-7dcfff?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 <div align="center">
@@ -47,6 +48,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-1a1b27?style=for-the-badge&logo=html5&logoColor=7dcfff)
 ![CSS3](https://img.shields.io/badge/CSS3-1a1b27?style=for-the-badge&logo=css3&logoColor=7aa2f7)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=bb9af7)
+![React](https://img.shields.io/badge/React-1a1b27?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## 📊 GitHub Stats
 
