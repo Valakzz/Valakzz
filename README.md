@@ -18,7 +18,7 @@
   <samp>
       Hi there! I'm <b>Valakzz</b> 👋
       <br>
-      Kotlin • Back-end • Dev in progress <br> <br>
+      Kotlin • Front-end • Dev in progress <br> <br>
       [![TikTok](https://img.shields.io/badge/-TikTok%20%20-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@valakzs)
   </samp>
   
